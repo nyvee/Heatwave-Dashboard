@@ -1,0 +1,5 @@
+[build]
+  command = "pip install -r requirements.txt && python your_script.py"
+
+[env]
+  PYTHON_VERSION = "3.8"
