@@ -1,0 +1,5 @@
+site_name: Heatwave Dashboard
+theme:
+  name: material
+nav:
+  - Home: index.md
