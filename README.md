@@ -22,3 +22,6 @@ The dashboard leverages global heatwave data from a CSV file and presents it in 
 - **Plotly**: For data visualization, including choropleth maps and line graphs.
 - **Pandas**: For data manipulation and processing.
 - **GeoJSON**: For world map data.
+
+## Dataset
+[Heatwave Excessive Heat Anomalies By Year](https://www.kaggle.com/datasets/muhammadroshaanriaz/heatwave-excessive-heat-anomalies-by-year)
